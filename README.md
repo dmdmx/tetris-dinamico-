@@ -34,7 +34,7 @@ git clone https://github.com/dmdmx/tetris-dinamico-
 Entra en la carpeta del proyecto:
 
 ```bash
-cd nombre-del-repositorio
+cd tetris-dinamico
 ```
 
 ### 2. Instalar las dependencias
