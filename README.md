@@ -28,7 +28,7 @@ Descarga el repositorio desde GitHub utilizando **Code → Download ZIP**.
 También puedes clonarlo desde una terminal:
 
 ```bash
-git clone URL_DE_TU_REPOSITORIO
+git clone https://github.com/dmdmx/tetris-dinamico-
 ```
 
 Entra en la carpeta del proyecto:
