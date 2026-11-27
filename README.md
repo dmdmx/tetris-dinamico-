@@ -97,7 +97,7 @@ Puedes contribuir:
 - Reportando errores.
 - Enviando mejoras mediante Pull Requests.
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor Sam Polanco 
 
 Desarrollado con Python y Pygame.
 
